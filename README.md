@@ -12,6 +12,24 @@ Now look at me, I teach automatization with boards like Arduino, ESP32, ESP8266 
 
 ## Skills:
 
+<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" />
+
+<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" />
+
+<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" />
+
+<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original.svg" />
+
+<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original.svg" />
+
+<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" />
+
+<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" />
+
+<img align="bottom" alt="capdesis.com" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" />
+
+
+
 ## Some YouTube videos:
 
 <table style="width:100%">
@@ -32,4 +50,51 @@ Now look at me, I teach automatization with boards like Arduino, ESP32, ESP8266 
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://youtu.be/k_uz-0SRNVU">
+          <img src="http://i3.ytimg.com/vi/k_uz-0SRNVU/maxresdefault.jpg">
+      </a>
+      </td>
+        <td>
+      <a href="https://youtu.be/r4uj4Rhrryo">
+          <img src="http://i3.ytimg.com/vi/r4uj4Rhrryo/hqdefault.jpg">
+      </a>
+      </td>
+        <td>
+      <a href="https://youtu.be/zNS9Dirapnw">
+          <img src="http://i3.ytimg.com/vi/zNS9Dirapnw/maxresdefault.jpg">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://youtu.be/JcFGHOnkVVU">
+          <img src="http://i3.ytimg.com/vi/JcFGHOnkVVU/maxresdefault.jpg">
+      </a>
+      </td>
+        <td>
+      <a href="https://youtu.be/bVcjFlF6b4c">
+          <img src="http://i3.ytimg.com/vi/bVcjFlF6b4c/maxresdefault.jpg">
+      </a>
+      </td>
+        <td>
+      <a href="https://youtu.be/h9MvAHr-bGY">
+          <img src="http://i3.ytimg.com/vi/h9MvAHr-bGY/maxresdefault.jpg">
+      </a>
+    </td>
+  </tr>
 </table>
+
+## Contact me:
+* [<img align="bottom" alt="capdesis.com" width="30px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />](https://codiziapp.com/) codiziapp
+
+* [<img align="left" alt="YouTube" width="30px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />](https://www.youtube.com/channel/UC764IdPecJGBSpzUv-UxA6Q) El Frontend Mecatrónico
+
+* [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.youtube.com/channel/UC764IdPecJGBSpzUv-UxA6Q) David Portilla
+
+* [<img align="left" alt="Instagram" width="30px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />](https://www.instagram.com/davidportilla_) @davidportilla_
+
+* [<img align="left" alt="Instagram" width="30px" src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" />](https://www.tiktok.com/@davidportilla_) @davidportilla_
+
+* [<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />](https://www.facebook.com/elfrontendmecatronico) El Frontend Mecatrónico
