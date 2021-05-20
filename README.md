@@ -12,23 +12,34 @@ Now look at me, I teach automatization with boards like Arduino, ESP32, ESP8266 
 
 ## Skills:
 
-<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" />
-
-<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" />
-
-<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" />
-
-<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original.svg" />
-
-<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original.svg" />
-
-<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" />
-
-<img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" />
-
-<img align="bottom" alt="capdesis.com" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" />
-
-
+<table style="width:100%">
+  <tr>
+    <td>
+      <img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" />
+    </td>
+    <td>
+      <img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" />
+    </td>
+    <td>
+      <img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" />
+    </td>
+    <td>
+      <img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original.svg" />
+    </td>
+    <td>
+      <img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original.svg" />
+    </td>
+    <td>
+      <img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" />
+    </td>
+    <td>
+      <img align="bottom" alt="capdesis.com" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/github/github-original.svg" />
+    </td>
+    <td>
+      <img align="bottom" alt="capdesis.com" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" />
+    </td>
+  </tr>
+</table>
 
 ## Some YouTube videos:
 
