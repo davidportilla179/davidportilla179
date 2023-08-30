@@ -1,8 +1,9 @@
 # Hello, my name is David Portilla 👋
 
-<div style="text-align:center;">
-  <img src="https://avatars.githubusercontent.com/u/61988341?v=4" alt="Descripción de la imagen" style="border-radius: 50%; width: 150px; height: 150px;">
-</div>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/61988341?v=4" style="border-radius: 50%;"/>
+</p>
+
 <p align="center">👇 ALL MY CONTENT HERE 👇</p>
 <p align="center">
    <a href="https://www.tiktok.com/@davidportilla_" target="blank" style='margin-right:10px'>
