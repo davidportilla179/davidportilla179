@@ -72,14 +72,14 @@ My goal with my content is to help students and people interested in IT to learn
       </td>
         <td>
       <a href="https://youtu.be/a44cQohOYWU">
-          <img src="https://i9.ytimg.com/vi/a44cQohOYWU/mqdefault.jpg?v=63f585c9&sqp=CIjmuqcG&rs=AOn4CLAld6Y6q-b1g1N8oiNNx9z2TSRo8g">
+          <img src="https://i3.ytimg.com/vi/a44cQohOYWU/mqdefault.jpg">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://youtu.be/8A_vekUSu4k">
-          <img src="https://i9.ytimg.com/vi/8A_vekUSu4k/mqdefault.jpg?v=64417cbb&sqp=CLjvuqcG&rs=AOn4CLCyudzC0aAg9BCWIc339PcgL3jR0w">
+          <img src="https://i3.ytimg.com/vi/8A_vekUSu4k/mqdefault.jpg">
       </a>
       </td>
         <td>
@@ -96,7 +96,7 @@ My goal with my content is to help students and people interested in IT to learn
   <tr>
     <td>
       <a href="https://youtu.be/GflGhJbg-Mo">
-          <img src="https://i9.ytimg.com/vi/GflGhJbg-Mo/mqdefault.jpg?v=63e17dad&sqp=CJD0uqcG&rs=AOn4CLC68DTVIgmD1_cIpXoP2M5YEVyUEA">
+          <img src="https://i3.ytimg.com/vi/GflGhJbg-Mo/mqdefault.jpg">
       </a>
       </td>
         <td>
@@ -106,7 +106,7 @@ My goal with my content is to help students and people interested in IT to learn
       </td>
         <td>
       <a href="https://youtu.be/8SjzxlTIvAs">
-          <img src="https://i9.ytimg.com/vi/8SjzxlTIvAs/mqdefault.jpg?v=63a2526c&sqp=CJD0uqcG&rs=AOn4CLDZKvphL8TSADcgAnn5z9jvK8wS2w">
+          <img src="https://i3.ytimg.com/vi/8SjzxlTIvAs/mqdefault.jpg">
       </a>
     </td>
   </tr>
